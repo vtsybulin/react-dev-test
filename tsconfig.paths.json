@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "^icons/*": [
+        "src/icons/*"
+      ],
+      "^configs/*": [
+        "src/configs/*"
+      ],
+      "^components/*": [
+        "src/components/*"
+      ],
+      "^types/*": [
+        "src/types/*"
+      ],
+      "^enums/*": [
+        "src/enums/*"
+      ],
+      "^hooks/*": [
+        "src/hooks/*"
+      ],
+      "^api/*": [
+        "src/api/*"
+      ],
+      "^utils/*": [
+        "src/utils/*"
+      ]
+    }
+  }
+}
