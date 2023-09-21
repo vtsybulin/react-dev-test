@@ -1,0 +1,9 @@
+.wrapper {
+  display: grid;
+  place-items: center;
+
+  .buttonsWrapper {
+    display: flex;
+    gap: 1rem;
+  }
+}
